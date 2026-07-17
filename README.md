@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Dating A — Premium Dating App 💕
+=======
+# DateA — Premium Dating App 
+>>>>>>> b8e2612 (update app name in README f)
 
 A production-grade Flutter dating/social application built with clean architecture, BLoC state management, and live API data from [randomuser.me](https://randomuser.me/api).
 

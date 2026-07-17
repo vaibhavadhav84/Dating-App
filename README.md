@@ -2,11 +2,7 @@
 
 A production-grade Flutter dating/social application built with clean architecture, BLoC state management, and live API data from [randomuser.me](https://randomuser.me/api).
 
-## Screenshots
 
-| Home | Explore | Messages | Notifications | Profile |
-|------|---------|----------|---------------|---------|
-| Swipe Cards | Search & Filter | Stories + Chats | Grouped Timeline | Hero Image |
 
 ## Tech Stack
 

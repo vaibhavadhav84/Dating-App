@@ -1,4 +1,4 @@
-# Spark — Premium Dating App 💕
+# Dating A — Premium Dating App 💕
 
 A production-grade Flutter dating/social application built with clean architecture, BLoC state management, and live API data from [randomuser.me](https://randomuser.me/api).
 
